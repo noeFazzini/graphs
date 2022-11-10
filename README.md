@@ -9,4 +9,4 @@ Given N men and N women, where each person has ranked all members of the opposit
 Given a graph and a source vertex src in the graph, find the shortest paths from source to all vertices in the given graph. The graph may contain negative weight edges. 
 
 ### Dijkstra
-
+Given a graph and a source vertex in the graph, find the shortest paths from the source to all vertices in the given graph
